@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(218, 229, 229);
+}
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(9, 13, 43);
+    color: white;
+    /* padding-top: 40px; */
+}
+.header-logo{
+    padding-top: 30px;
+    font-size: x-large;
+}
+.header-nav{
+    display: flex;
+}
+.header-nav-shop{
+    padding-left: 20px;
+}
+.header-search{
+    padding-top: 40px;
+}
+.header-search-logo{
+    padding-left: 200px;
+}
+.header-nav-basket{
+    padding-left: 40px;
+    padding-top: 40px;
+}
+.header-nav-number{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+#section0-img{ 
+    height: 500px;
+    padding-left: 320px;
+}
+.section1{
+    display: flex;
+    justify-content: space-around;
+}
+.section2{
+    display: flex;
+    justify-content: space-around;
+}
+.section3{
+   align-items: center;
+}
+.section1-a{
+    background-color: white;
+    width: 40%;
+}
+.section1-b{
+    background-color: white;
+    width: 40%;
+   
+}
+.section2-a{
+    width: 30%;
+    background-color: white;
+}
+.section2-b{
+    width: 30%;
+    background-color: white;
+}
+.section2-c{
+    width: 30%;
+    background-color: white;
+}
+.section3{
+    background-color: white;
+}
+#section1-a-img{
+    width: 200px;
+}
+#section1-b-img{
+    width: 400px;
+}
+#section2-a-img{
+    width: 200px;
+}
+#section2-b-img{
+    width: 200px;
+}
+#section2-c-img{
+    width: 200px;
+}
+#section3-img{
+    width: 400px;
+    padding-left: 400px;
+}
+.button{
+    background-color: yellow;
+}
